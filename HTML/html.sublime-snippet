@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>${1:Untitled}</title>
+        <!--[if lt IE9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    </head>
+    <body>
+        $3
+    </body>
+</html>]]></content>
+    <tabTrigger>html5</tabTrigger>
+    <description>HTML5 Default Template</description>
+    <scope>text.html</scope>
+</snippet>
