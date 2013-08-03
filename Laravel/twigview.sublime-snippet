@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+{% extends '${1:layouts.main}' %}
+{% block content %}
+
+$0
+
+{% endblock %}
+]]></content>
+  <description>Laravel twig view extending default layout</description>
+  <tabTrigger>lview</tabTrigger>
+  <scope>text.html.twig</scope>
+</snippet>
